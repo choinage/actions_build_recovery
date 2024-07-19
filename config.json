@@ -1,16 +1,16 @@
 {
-  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
-  "git_username": "Pinkdoge",
-  "git_email": "42758990+Pinkdoge@users.noreply.github.com",
+  "twrp_url": "https://github.com/Teamwin/android_bootable_recovery/",
+  "twrp_branch": "android-12.1",
+  "git_username": "Choinage",
+  "git_email": "choinage@outlook.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "choinage/device_oneplus_qqcandy_a08",
+  "dt_branch": "test",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/oplus/ossi",
+  "device_code": "ossi",
   "fix_product": true,
   "fix_misscom": true,
-  "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_busybox": true,
+  "fix_branch": "android-12.1"
 }
